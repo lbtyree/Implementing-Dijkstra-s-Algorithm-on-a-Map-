@@ -2,7 +2,7 @@ Implementing Dijkstra's Algorithm
 
 This assignmentand the sourcce code is given in Data Structures courses at Columbia University.
 
-Project Guidlines; 
+Project Guidlines:
 
 In this project you will work with a graph representing train connections between North American cities (the graph represents train routes in the popular board game [Ticket to Ride](https://boardgamegeek.com/boardgame/9209/ticket-ride).
 The file `ttrvertices.txt` contains a list of cities and their (X,Y) coordinates on the map. These are the vertices in the graph. The file `ttredges.txt` lists direct connections between pairs of cities. These links are *bidirectional*, if you can travel from NewYork to Boston, you can get from Boston to NewYork. These are the edges of the graph.
